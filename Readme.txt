@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Gaming Website For Time Pass HaHa
 
-Template Name: Regna
-Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Its just my college project
